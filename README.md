@@ -1,2 +1,3 @@
 # typography
-mostly made using Dotgrid
+just experiments
+mostly made using Dotgrid https://hundredrabbits.itch.io/dotgrid
